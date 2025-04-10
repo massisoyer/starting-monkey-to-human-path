@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("I’m Danon Golygin, and I’m not a monkey");
         }
     }
 }
