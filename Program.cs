@@ -1,6 +1,6 @@
 ﻿namespace starting_monkey_to_human_path
 {
-    internal class Program
+    internal class Application
     {
         static void Main(string[] args)
         {
