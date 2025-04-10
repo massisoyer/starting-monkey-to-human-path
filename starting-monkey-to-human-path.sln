@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "starting-monkey-to-human-path", "starting-monkey-to-human-path.csproj", "{2AA3FD5D-8F7C-42D8-9082-22D95B4639D9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "202", "202", "{24F81BA0-8140-4CCE-A6AA-72B3BDFD4338}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Голыгин", "Голыгин", "{D566524F-CF2C-46DC-B9B1-0ACC356F9D17}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "wdad", "wdad", "{04282B9D-6A60-4035-8D3A-AEB93B5B615E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Папка 1", "Папка 1", "{8C47CF9F-DE5F-415E-ADD6-08D80FBC63D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class3.cs", "..\class3.cs\class3.cs.csproj", "{5D7BD28C-C50B-4AFD-B5FE-EAD4216B84AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AA3FD5D-8F7C-42D8-9082-22D95B4639D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AA3FD5D-8F7C-42D8-9082-22D95B4639D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AA3FD5D-8F7C-42D8-9082-22D95B4639D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AA3FD5D-8F7C-42D8-9082-22D95B4639D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D7BD28C-C50B-4AFD-B5FE-EAD4216B84AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D7BD28C-C50B-4AFD-B5FE-EAD4216B84AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D7BD28C-C50B-4AFD-B5FE-EAD4216B84AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D7BD28C-C50B-4AFD-B5FE-EAD4216B84AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D566524F-CF2C-46DC-B9B1-0ACC356F9D17} = {24F81BA0-8140-4CCE-A6AA-72B3BDFD4338}
+		{04282B9D-6A60-4035-8D3A-AEB93B5B615E} = {D566524F-CF2C-46DC-B9B1-0ACC356F9D17}
+		{8C47CF9F-DE5F-415E-ADD6-08D80FBC63D4} = {04282B9D-6A60-4035-8D3A-AEB93B5B615E}
+		{5D7BD28C-C50B-4AFD-B5FE-EAD4216B84AF} = {8C47CF9F-DE5F-415E-ADD6-08D80FBC63D4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77978744-CAB2-4588-95B0-02D7DB7E2A27}
+	EndGlobalSection
+EndGlobal
